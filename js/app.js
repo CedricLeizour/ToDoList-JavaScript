@@ -9,8 +9,8 @@ var app = {
         title: "Faire une todo-list en React",
         done: false
       }, {
-        title: "Coder facebook",
-        done: false
+        title: "Créer son portfolio en React ",
+        done: true
       }
     ],
   
